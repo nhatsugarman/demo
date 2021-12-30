@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2b2dff54.css","mappings":"AAAA,EACI,SAAU,CACb,SAEG,SAAU,CACV,kBACI,UAAa","sources":["sass/index.scss"],"sourcesContent":["* {\r\n    padding: 0;\r\n}\r\n.vietnam {\r\n    color: red;\r\n    &__bacninh {\r\n        color: yellow;\r\n    }\r\n}"],"names":[],"sourceRoot":""}
