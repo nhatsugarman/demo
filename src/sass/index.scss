@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+}
+.vietnam {
+    color: red;
+    &__bacninh {
+        color: yellow;
+    }
+}
